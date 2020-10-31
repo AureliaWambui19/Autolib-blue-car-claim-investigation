@@ -19,7 +19,7 @@ Stratified Random Sampling.
 
 Hypothesis Testing using Z test
 
-Setup/Installation Requirements
+##Setup/Installation Requirements
 Google colab/jupyter notebook
 Python basics
 Python libraries
